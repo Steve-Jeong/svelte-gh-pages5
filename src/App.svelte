@@ -9,6 +9,7 @@
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
   <p>Count : {count}</p>
   <button on:click={plus}>+</button>
+  <h1>This is a svelte github pages</h1>
 </main>
 
 <style>
